@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ENVELOPE DESTINATION="Service Fulfillment Adapter" SENDER="ECLIPS">
+    <sfiRequest>
+        <requestId>157266</requestId>
+        <userName>eclips_access</userName>
+        <constrOrder>
+            <serviceId>
+                <dimObjectType>8</dimObjectType>
+                <dimObjectId>288</dimObjectId>
+            </serviceId>
+            <createTelephoneNumberBlock>
+                <orderName>119327_0435643580_12-14-2016 13:04:17</orderName>
+                <plannedCompDate>12/14/2016 00:00</plannedCompDate>
+                <numberLow>0458</numberLow>
+                <numberHigh>04387</numberHigh>
+            </createTelephoneNumberBlock>
+        </constrOrder>
+    </sfiRequest>
+</ENVELOPE>

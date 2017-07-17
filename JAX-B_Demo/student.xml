@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StudentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="techm" xsi:noNamespaceSchemaLocation="com.abahsh.jaxb">
+    <Student rollNo="1">
+        <age>24</age>
+        <gender>Male</gender>
+        <name>Abhash</name>
+    </Student>
+    <Student rollNo="6">
+        <age>24</age>
+        <gender>Male</gender>
+        <name>Tom</name>
+    </Student>
+    <Student rollNo="2">
+        <age>24</age>
+        <gender>Male</gender>
+        <name>Sid</name>
+    </Student>
+</StudentList>
